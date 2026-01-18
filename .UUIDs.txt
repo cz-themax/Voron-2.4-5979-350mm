@@ -1,0 +1,10 @@
+# python3 ~/klipper/scripts/canbus_query.py can1
+
+	69211aee4329 # BTT Manta M8P v1.2
+	9c26306c094f # Hexa Fuse distro board (CAN1)
+
+T0	1264ccf0a417 # Starý Červený
+T1	1be50d441d12 # Červený (později bude Zelený)
+T2	0254b16fc2f4 # Bílý
+T3	5e28b4c14c78 # Černý
+T4	xxxxxxxxxxxx # Modrý
